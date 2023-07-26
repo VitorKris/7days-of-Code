@@ -13,4 +13,4 @@ else if (pergunta == 'não' || 'Não'){
     console.log("Ahh que pena... Já tentou aprender outras linguagens?")
     } else {
     console.log ("Responda com sim ou não")
-    }
+    };
